@@ -1,0 +1,20 @@
+Prediction Generation:
+  1. How can you generate predictions from a trained neural network model using a test dataset? What function or method would you use?
+
+Accessing Prediction Details:
+  2. How would you access the prediction details for the second image in the test dataset? Which index would you use to retrieve this information from the predictions array?
+
+Finding the Predicted Class:
+  3. How can you determine the predicted class from the output of a neural network? What function would you use to find the index of the highest probability?
+
+Visualizing Test Data:
+  4. Which function would you use to visualize a specific test image, and what parameters might you need to provide to display it in grayscale?
+
+Comparing with Actual Labels:
+  5. How would you retrieve the actual label for the second image in the test dataset? Which index should you use to access this information?
+
+Converting Predictions to Class Labels:
+  6. How can you convert a list of prediction probabilities into class labels for each test image? What Python technique or method would help you iterate over the predictions and extract the labels?
+
+Examining Initial Predictions:
+  7. How would you access the first five predicted class labels from your converted predictions? Which part of the list would you slice to get this subset?
