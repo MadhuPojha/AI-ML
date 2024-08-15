@@ -1,0 +1,4 @@
+Analyze the data: Use the new size charts to determine the number of matches and ties based on two measurements.
+Count matches and ties: Write a function that iterates through each person's measurements, compares them with the new size charts, and counts the number of matches and ties.
+Bonus:
+Modify the function to handle ties. If there is a tie and the sizes are adjacent, choose the larger size to increase the number of matches.
