@@ -16,7 +16,7 @@ def clean_text(text):
     #remove numbers
     text = re.sub(r'\w*\d\w*', '', text)
     #remove stopwords
-    stopwords = [stopword.strip() for stopword in open('./data/stopwords.txt', 'r')]
+    stopwords = [stopword.strip() for stopword in open('./stopwords.txt', 'r')]
     return ' '.join([word for word in text.split() if word not in stopwords])
  
 class Review:
