@@ -32,7 +32,7 @@ class Review:
  
 reviews = []
 try:
-    with open('./data/Pet_Supplies_2000.json', 'r') as in_file:
+    with open('./Pet_Supplies_2000.json', 'r') as in_file:
         for line in in_file:
             try:
                 data = json.loads(line)
