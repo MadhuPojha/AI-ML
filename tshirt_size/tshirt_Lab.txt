@@ -1,4 +1,15 @@
+Use the size chart: Use a size chart that specifies the limits for shoulder breadth and chest circumference for each size.
+ 
+Create a function: Write a function that iterates through each person's measurements and compares them with the size chart.
+ 
+Count matches and conflicts: The function should count the number of individuals who have exactly one matching size and the number of individuals who have multiple possible sizes (conflicts).
+ 
+Test your function with both female and male datasets, and use appropriate size charts for each gender.
+
+
 Analyze the data: Use the new size charts to determine the number of matches and ties based on two measurements.
+
 Count matches and ties: Write a function that iterates through each person's measurements, compares them with the new size charts, and counts the number of matches and ties.
+
 Bonus:
 Modify the function to handle ties. If there is a tie and the sizes are adjacent, choose the larger size to increase the number of matches.
