@@ -1,0 +1,6 @@
+1. Extract a certain number of reviews (choose between 100-1000) and create a new file with only these reviews.
+2. Clean the text using the steps you learned today.
+3. Select the reviews and their ratings.
+4. Use CountVectorizer to get a numerical representation.
+5. Split 80-20 between training and testing.
+6. Train and then test.
