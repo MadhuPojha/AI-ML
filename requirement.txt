@@ -4,3 +4,4 @@ pip install tensorflow
 pip install seaborn
 pip install matplotlib
 pip install numpy
+pip install contractions
